@@ -1,4 +1,4 @@
-# web3-security-journey
+# Web3-Security-Journey
 
 Welcome to my Web3 security learning repository.
 
