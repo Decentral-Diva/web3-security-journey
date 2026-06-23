@@ -1,6 +1,6 @@
 # Day 1 - Onboarding (Web3 Security Class)
 
-Today was the onboarding session for the Web3 Security class.
+Today was the onboarding session for the web3 security class with Rektoff cohort 5.
 
 ## What happened
 - Introduction to the program and structure
