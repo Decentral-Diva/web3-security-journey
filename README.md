@@ -1,6 +1,6 @@
 # Web3-Security-Journey
 
-Welcome to my Web3 security learning repository.
+Welcome to my Web3 security learning repository
 
 ---
 
